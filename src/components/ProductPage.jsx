@@ -1,4 +1,3 @@
-// src/components/ProductPage.jsx (Updated ProductInfo component)
 import React, { useState } from 'react'; // Import useState hook
 
 // Product data (This will eventually come from an API)
