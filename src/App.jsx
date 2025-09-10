@@ -7,7 +7,7 @@ function App() {
     <>
       <MyName />
       <ProductPage />
-      <h1>testing many times again</h1>
+      <h1>Testing for assessment</h1>
     </>
   )
 }
